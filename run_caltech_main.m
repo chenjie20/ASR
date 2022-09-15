@@ -78,7 +78,7 @@ for raito_idx = 1 : length(raitos)
     beta = betas(raito_idx);
         
     tic;
-    [Wn, iter1, errors1] = srsf(caltech_data_views, Mn, alpha, beta, new_dims(raito_idx));
+    [Wn, iter1, errors1] = sacr(caltech_data_views, Mn, alpha, beta, new_dims(raito_idx));
     Zs = zeros(n, n);
     for i = 1 :n
         for j =  1: n
