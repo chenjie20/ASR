@@ -3,7 +3,7 @@ Sparsity Augmented Collaborative Representation for Incomplete Multiview Cluster
 
 The MATLAB source code for our method is available online.
 
-@article{Chen2022ASR,
+@article{Chen2022SACR,
   author        = "J. Chen and  S. Yang and  X. Peng and  D. Peng and Z. Wang",
   title         = "Augmented Sparse Representation for Incomplete Multiview Clustering",
   journal       = "IEEE Trans. Neural. Netw. Learn. Syst.",
