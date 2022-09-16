@@ -1,9 +1,9 @@
-# SACR
-Sparsity Augmented Collaborative Representation for Incomplete Multiview Clustering.
+# ASR
+Augmented Sparse Representation for Incomplete Multiview Clustering.
 
 The MATLAB source code for our method is available online. The other datasets are avaiable at https://codeocean.com/capsule/2092701/tree/v2
 
-@article{Chen2022SACR,
+@article{Chen2022ASR,
   author        = "J. Chen and  S. Yang and  X. Peng and  D. Peng and Z. Wang",
   title         = "Augmented Sparse Representation for Incomplete Multiview Clustering",
   journal       = "IEEE Trans. Neural. Netw. Learn. Syst.",
