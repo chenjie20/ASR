@@ -3,6 +3,7 @@ clear;
 clc;
 
 addpath('data');
+addpath('utility');
 
 %---------------------- load data -------------------------
 load('data/100leaves.mat');
