@@ -68,7 +68,7 @@ switch data_index
              data_views{nv_idx} = KH(:, :, nv_idx);
         end
         new_dims = [200, 100, 100, 100];  
-        asr_parameters = [1e-7,1e-4;1e-7,1e-4;1e-7,1e-4;1e-4,1e-3];
+        asr_parameters = [1e-7,1e-4;1e-7,1e-4;1e-7,1e-4;1e-4,1e-4];
         sparse_fusion_used = true;
 
     case 4
